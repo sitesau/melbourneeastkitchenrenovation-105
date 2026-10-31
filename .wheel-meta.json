@@ -1,0 +1,22 @@
+{
+  "wheel_id": 573,
+  "structure": "umbrella",
+  "slug": "melbourneeastkitchenrenovation-105",
+  "project": "kitchen-renovations-eastern-melbourne-timeline-31f024aaebbec892",
+  "parent_t1_ref": "melbourneeastkitchenrenovation-152",
+  "node_role": "feeder",
+  "money_target": "melbourneeastkitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations eastern melbourne timeline",
+  "intended_url": "http://kitchen-renovations-eastern-melbourne-timeline-31f024aaebbec892.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "c529ad9d9b534448",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/kitchen-renovations-eastern-melbourne-questions-to-ask-685db/",
+      "anchor": "kitchen renovations eastern melbourne questions to ask explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
